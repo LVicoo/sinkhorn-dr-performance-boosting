@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+results/
+plots/
+arrays/
+*.pt
+*.pth
+
+.DS_Store
+.vscode/
+.idea/
