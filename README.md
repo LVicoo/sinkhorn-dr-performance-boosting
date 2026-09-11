@@ -792,7 +792,7 @@ lambda very large      -> rho may be too small or objective poorly conditioned
 
 ---
 
-## 22. Minimal commands for a new user
+## 21. Minimal commands for a new user
 
 Check installation:
 
