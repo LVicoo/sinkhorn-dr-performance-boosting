@@ -4,9 +4,9 @@ Minimal PyTorch implementation of a Sinkhorn distributionally robust version of 
 
 This repository builds on the performance-boosting controller implementation developed in the DECODE Lab:
 
-- Original repository: DecodEPFL/perf-boost-base
+- Original repository: [DecodEPFL/perf-boost-base](https://github.com/DecodEPFL/perf-boost-base)
 - Original purpose: PyTorch implementation of performance-boosting controllers for stable nonlinear systems.
-- Original reference: Furieri, Galimberti, Ferrari-Trecate, *Learning to Boost the Performance of Stable Nonlinear Systems*, 2024.
+- Original reference: [Furieri, Galimberti, Ferrari-Trecate, *Learning to Boost the Performance of Stable Nonlinear Systems*, 2024](https://arxiv.org/abs/2405.00871).
 
 The code compares two training criteria for the same stability-preserving controller architecture:
 
